@@ -1,0 +1,5 @@
+Flask==2.3.3
+earthengine-api==0.1.374
+plotly==5.18.0
+folium==0.14.0
+gunicorn==21.2.0 
